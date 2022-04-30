@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL" target="blank">
+  <a href="https://www.designpieces.com/palette/instagram-new-logo-2016-color-palette/" target="blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="your-youtube-URL" target="blank">
