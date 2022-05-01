@@ -57,7 +57,8 @@ I'm a Software Engineer from Mexico. 🇲🇽
 </div>
 <hr>
 <h4> 🔥 My Stats: </h4>
-<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=OscarGX&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a></p>
+<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=OscarGX&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarGX&amp;layout=compact&amp;theme=tokyonight" alt="Top Langs"></a></p>
 <!--
 **OscarGX/OscarGX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
