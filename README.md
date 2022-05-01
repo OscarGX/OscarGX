@@ -17,6 +17,9 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h4> 👨‍💻 About Me : </h4>
+I'm a Software Engineer from Mexico. 🇲🇽
+- 🔭 I’m currently working on ...
 <!--
 **OscarGX/OscarGX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
