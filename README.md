@@ -12,6 +12,9 @@
   <a href="https://twitter.com/OscarGx096" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/oscar-reyes-mtz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 <h1 align="center">
   Hi there
@@ -26,6 +29,8 @@ I'm a Software Engineer from Mexico. 🇲🇽
   <li>🤝 I’m looking to collaborate on web projects with technologies like Angular, NestJS, NodeJS, .NET Core or SpringBoot.</li>
   <br>
   <li>📫 How to reach me: <ins>reyesmartinezoscar3g15@gmail.com</ins></li>
+  <br>
+  <li>📫 My website: <a href="https://oscargx.github.io/portafolio">OscarGX</a></li>
 </ul>
 <hr>
 <h4> 🛠️ Languages and tools: </h4>
