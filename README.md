@@ -15,7 +15,7 @@
 </div>
 <h1 align="center">
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="27px"/>
 </h1>
 <h4> 👨‍💻 About Me : </h4>
 I'm a Software Engineer from Mexico. 🇲🇽
