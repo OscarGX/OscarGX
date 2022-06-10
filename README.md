@@ -30,7 +30,7 @@ I'm a Software Engineer from Mexico. 🇲🇽
   <br>
   <li>📫 How to reach me: <ins>reyesmartinezoscar3g15@gmail.com</ins></li>
   <br>
-  <li>📫 My website: <a href="https://oscargx.github.io/portafolio">OscarGX</a></li>
+  <li>🌐 My website: <a href="https://oscargx.github.io/portafolio">OscarGX</a></li>
 </ul>
 <hr>
 <h4> 🛠️ Languages and tools: </h4>
